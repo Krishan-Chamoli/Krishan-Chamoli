@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Krishan-Chamoli&label=Profile%20views&color=2563eb&style=flat" alt="views" />
-  <img src="https://img.shields.io/badge/Experience-1%2B%20Year-0F9D58?style=flat" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Year-0F9D58?style=flat" />
   <img src="https://img.shields.io/badge/Based%20in-New%20Delhi,%20IN-555?style=flat" />
 </p>
 
@@ -20,7 +20,7 @@
 ### 🚀 What I'm About
 
 ```js
-const krishan = {
+const krishan_Chamoli = {
   role: "Software Engineer @ Richa Industries (NKS Group)",
   stack: ["MERN", "Next.js", "Angular 18", "TypeScript"],
   exploring: ["LLMs", "LangChain", "Server-Side Rendering"],
